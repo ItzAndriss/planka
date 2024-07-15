@@ -13,7 +13,7 @@ export default {
     fullDateTime: 'y. MMMM d. p',
   },
 
-  translations: {
+  translation: {
     common: {
       aboutPlanka: "Plankáról",
       account: "Fiók",
